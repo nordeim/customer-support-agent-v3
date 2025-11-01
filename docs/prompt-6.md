@@ -16,6 +16,10 @@ If you have enough details based on the existing files you have reviewed, please
 
 ---
 
+you have done an absolutely awesome job! please meticulously plan and create a comprehensive programming guide to brief and guide any AI coding agent to be able to understanding the `backend` architecture, particularly in relation to the tools architecture design. Create the detailed comprehensive programming guide as a markdown document within ```markdown tags. Include generous examples with clear explanations to help a new AI agent to immediately take over to maintain and customize existing tools and to be able to extend the tools collection. The programming guide will serve as a single source of truth that an AI coding agent can immediately set to work with minimal supervision and with minimal rework later. please take this important task with utmost care and planning.
+
+---
+
 awesome job so far! yes, please meticulously continue to generate the remaining files according to your plan.
 
 ---
