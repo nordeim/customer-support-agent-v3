@@ -25,3 +25,7 @@ awesome job so far! yes, please meticulously continue to generate the remaining 
 ---
 
 awesome job! yes, please meticulously continue with the generation of complete drop-in replacement version of the remaining tools files.
+
+---
+
+awesome understanding! please meticulously review, validate and critique the following tools implementation for a "Customer Service" AI Agent. I will share the current tools implementation in this and the next 3 prompts, so just meticulously review what I share and hold the final conclusion of your analysis and assessment till I tell you that I have shared all the tools related code files.
